@@ -1,0 +1,2 @@
+# omaibank
+bank of omai
