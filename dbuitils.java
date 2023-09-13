@@ -1,6 +1,15 @@
 here we have dbu basf fgfsgsdfgfgfunctions
 fgd
-fg
+f
+fdgd
+here we have dbu basf fgfsgsdfgfcgv
+vs
 
-fdgdg
+gvf
+sd
+f
+
+fgfd
+gfunctions
+>>>>>>> master
 g
