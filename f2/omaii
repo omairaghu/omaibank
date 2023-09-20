@@ -1,0 +1,13 @@
+a=10
+b=20
+c=30
+name=oamiragava
+
+echo "value of variable" $a
+echo "variable value is" $b 
+echo $c
+echo $name
+
+
+username=$USER
+echo "username is" $USER
